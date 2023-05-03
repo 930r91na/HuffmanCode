@@ -1,0 +1,24 @@
+   Nombre de host. . . . . . . . . : Koquis
+   Sufijo DNS principal  . . . . . :
+   Tipo de nodo. . . . . . . . . . : hAbrido
+   Enrutamiento IP habilitado. . . : no
+   Proxy WINS habilitado . . . . . : no
+   Lista de bAosqueda de sufijos DNS: udla.fundacion.mx
+
+Adaptador desconocido McAfee VPN:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especAfico para la conexiA3n. . :
+   DescripciA3n . . . . . . . . . . . . . . . : TAP-Windows Adapter V9
+   DirecciA3n fAsica. . . . . . . . . . . . . : 00-FF-7B-54-1A-F7
+   DHCP habilitado . . . . . . . . . . . . . : sA
+   ConfiguraciA3n automA!tica habilitada . . . : sA
+
+Adaptador de LAN inalA!mbrica ConexiA3n de A!rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especAfico para la conexiA3n. . :
+   DescripciA3n . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   DirecciA3n fAsica. . . . . . . . . . . . . : CC-15-31-CB-08-50
+   DHCP habilitado . . . . . . . . . . . . . : sA
+   ConfiguraciA3n automA!tica habilitada . . . : sA
